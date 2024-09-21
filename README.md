@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm a **Computer Engineering** student at **McGill University** with over 4 years of project-driven software development experience.
+
+I'm currently working on large network visualizations and some other small projects.
+
+You can reach me here:
+  jeremi.campagna@mail.mcgill.ca
+  linkedin.com/in/jeremicampagna/
+  
+
+
+
+
 
 <!--
 **jeremicna/jeremicna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
