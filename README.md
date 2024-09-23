@@ -6,7 +6,6 @@ I'm currently working on large network visualizations and some other small proje
 
 You can reach me here:
   jeremi.campagna@mail.mcgill.ca
-  linkedin.com/in/jeremicampagna/
   
 
 
